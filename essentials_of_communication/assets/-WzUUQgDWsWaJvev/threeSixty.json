@@ -1,0 +1,57 @@
+{
+  "version": "3.85.31840.0",
+  "course_id": "6ZgGCR5zkaK",
+  "title": "Instructions",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "64Xeuacicyx",
+      "title": "Instructions",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6dpEL3vOmbI",
+      "title": "When faced with a communication challenge (work or personal), how do you typically resolve it?",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6bjpHlNGtyp",
+      "title": "You notice someone close to you (friend, family, coworker) seems upset after an interaction. How do you approach it?",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6dridWglAOU",
+      "title": "How do you handle communication differences in a group with diverse preferences (work team, project group, family)?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6Jh6Mn3mrGy",
+      "title": "You receive feedback that your communication (emails, texts, conversations) is often misunderstood. What do you do?",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6gu8ocB8J1P",
+      "title": "Which area of communication needs the most improvement in your life?",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "60rLSeOtC0j",
+      "title": "YOUR RESULTS",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
